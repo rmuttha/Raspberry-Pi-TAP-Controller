@@ -1,0 +1,9 @@
+2023-05-06 04:56:03,657  - tests.smoke.smoke.testReadDeviceCode - INFO - Running tests.smoke.smoke.testReadDeviceCode 
+2023-05-06 04:56:06,724  - tests.smoke.smoke.testReadDeviceCode - INFO - Done with tests.smoke.smoke.testReadDeviceCode
+ 
+2023-05-06 04:56:06,732  - tests.smoke.smoke.testReset - INFO - Running tests.smoke.smoke.testReset 
+2023-05-06 04:56:07,778  - tests.smoke.smoke.testReset - INFO - Done with tests.smoke.smoke.testReset
+ 
+2023-05-06 04:56:07,799  - tests.smoke.smoke.testReset2ShiftIR - INFO - Running tests.smoke.smoke.testReset2ShiftIR 
+2023-05-06 04:56:09,849  - tests.smoke.smoke.testReset2ShiftIR - INFO - Done with tests.smoke.smoke.testReset2ShiftIR
+ 

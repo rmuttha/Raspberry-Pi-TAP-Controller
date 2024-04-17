@@ -1,0 +1,39 @@
+2023-05-06 04:34:19,664  - tests.smoke.smoke.testReadDeviceCode - INFO - Running tests.smoke.smoke.testReadDeviceCode 
+2023-05-06 04:34:19,813  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:20,013  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:20,213  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:20,414  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:20,615  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:20,815  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Run_Test_Idle 
+2023-05-06 04:34:21,016  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan 
+2023-05-06 04:34:21,216  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Select_IR_Scan 
+2023-05-06 04:34:21,417  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Capture_IR 
+2023-05-06 04:34:21,617  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Shift_IR 
+2023-05-06 04:34:21,818  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Exit1_IR 
+2023-05-06 04:34:22,018  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Update_IR 
+2023-05-06 04:34:22,219  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan 
+2023-05-06 04:34:22,420  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Capture_DR 
+2023-05-06 04:34:22,620  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Shift_DR 
+2023-05-06 04:34:22,721  - tests.smoke.smoke.testReadDeviceCode - INFO - Done with tests.smoke.smoke.testReadDeviceCode
+ 
+2023-05-06 04:34:22,726  - tests.smoke.smoke.testReset - INFO - Running tests.smoke.smoke.testReset 
+2023-05-06 04:34:22,863  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:23,063  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:23,263  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:23,464  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:23,664  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:23,765  - tests.smoke.smoke.testReset - INFO - Done with tests.smoke.smoke.testReset
+ 
+2023-05-06 04:34:23,770  - tests.smoke.smoke.testReset2ShiftIR - INFO - Running tests.smoke.smoke.testReset2ShiftIR 
+2023-05-06 04:34:23,906  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:24,106  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:24,307  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:24,507  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:24,708  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Test_Logic_Reset 
+2023-05-06 04:34:24,908  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Run_Test_Idle 
+2023-05-06 04:34:25,108  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Select_DR_Scan 
+2023-05-06 04:34:25,309  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Select_IR_Scan 
+2023-05-06 04:34:25,510  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Capture_IR 
+2023-05-06 04:34:25,710  - /home/pi/Desktop/Rutuja-TanmayP1/PostSiProject/tap/common/loopback.py - INFO - Shift_IR 
+2023-05-06 04:34:25,811  - tests.smoke.smoke.testReset2ShiftIR - INFO - Done with tests.smoke.smoke.testReset2ShiftIR
+ 
