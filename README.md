@@ -37,6 +37,7 @@ Open a terminal and run the following commands:
 sudo apt-get install python3 python3-pip
 sudo pip3 install RPi.GPIO colorama
 `
+
 3. Run the TAP Controller Script
 Navigate to the project directory and execute the main script:
 
